@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Mi nombre es Francisco Vera</h1>
-<h3 align="center">Progamador Full Stack | Autodidacta y en constante aprendimiento</h3>
+<h3 align="center">Programador Full Stack | Autodidacta y aprendiendo constante</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FrovaHappy&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <h3 align="center">Mis Estadisticas 📈</h3>
