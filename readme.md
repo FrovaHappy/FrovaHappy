@@ -23,10 +23,11 @@
 
 <h3>Mis Mejores Proyectos! 🎨</h3>
 <Br>
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrovaHappy&repo=beatriz-dono)](https://github.com/FrovaHappy/beatriz-dono)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrovaHappy&repo=monorepo-scrapping-anime)](https://github.com/FrovaHappy/monorepo-scrapping-anime)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrovaHappy&repo=beatriz-bot)](https://github.com/FrovaHappy/beatriz-bot)
 <Br>
 
 ---
